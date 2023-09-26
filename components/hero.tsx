@@ -148,7 +148,7 @@ export default function Hero() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                By employing existing cashback marketing, Carbon Blocks
+                By employing existing cashback marketing, Carbonblocks
                 seamlessly allocates a portion of everyday transactions to help
                 businesses achieve their net-zero emissions targets while
                 empowering consumers to take meaningful action against climate
