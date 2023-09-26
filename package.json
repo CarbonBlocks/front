@@ -2,6 +2,9 @@
   "name": "simple-next",
   "version": "0.1.0",
   "private": true,
+  "browser": {
+    "child_process": false
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,6 +17,7 @@
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
     "aos": "^3.0.0-beta.6",
+    "mongodb": "^6.1.0",
     "next": "^13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
