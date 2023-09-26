@@ -40,7 +40,8 @@ export default function Hero() {
         className="absolute left-1/2 transform -translate-x-1/2 bottom-0 pointer-events-none -z-1"
         aria-hidden="true"
       > */}
-      <div className="absolute top-[20%] left-[1.25vh] md:top-[20%] md:right-10 md:left-auto">
+      {/* <div className="absolute top-[20%] left-[1.25vh] md:top-[20%] md:right-10 md:left-auto"> */}
+      <div className="absolute top-[15%] left-[5%] md:top-[20%] md:right-10 md:left-auto">
         <svg
           id="eZlVwhPziUQ1"
           xmlns="http://www.w3.org/2000/svg"
