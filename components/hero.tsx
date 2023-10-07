@@ -154,12 +154,58 @@ export default function Hero() {
                 empowering consumers to take meaningful action against climate
                 change.
               </p>
+              <div className="mt-6 mb-6 text-center">
+                <p className="text-xl font-bold text-white mb-4">
+                  Click on the brands to shop - a portion of sales will go to
+                  carbon credits
+                </p>
+                <div className="flex flex-wrap justify-between items-start space-x-4 space-y-2 mx-auto w-3/4">
+                  <a
+                    href="https://c.klarna.com/al/9S1v/"
+                    className="text-white hover:underline font-bold"
+                  >
+                    Bloomingdale's
+                  </a>
+                  <a
+                    href="https://c.klarna.com/al/9QHo/"
+                    className="text-white hover:underline font-bold"
+                  >
+                    CVS
+                  </a>
+                  <a
+                    href="https://c.klarna.com/al/9S23/"
+                    className="text-white hover:underline font-bold"
+                  >
+                    Neiman Marcus
+                  </a>
+                  <a
+                    href="https://c.klarna.com/al/9S27/"
+                    className="text-white hover:underline font-bold"
+                  >
+                    Revolve
+                  </a>
+                  <div className="flex flex-col">
+                    <a
+                      href="https://www.veneffect.com/"
+                      className="text-white hover:underline font-bold"
+                    >
+                      Ven Effect
+                    </a>
+                    <div className="text-xs text-white">
+                      <p className="mb-1">Checkout code: CLIMATE20</p>
+                      <p className="m-0">*only applies to specific products</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
                 data-aos="zoom-y-out"
                 data-aos-delay="300"
               >
                 <SignUp />
+
                 {/* <div>
                   <a
                     className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
