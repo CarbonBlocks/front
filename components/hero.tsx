@@ -355,6 +355,189 @@ const App = () => {
         <SearchableList
           brands={[
             {
+              "Company Name": "Revolve",
+              Link: "https://c.klarna.com/al/9S27/",
+            },
+            {
+              "Company Name": "Net-A-Porter",
+              Link: "https://c.klarna.com/al/A0bV/",
+            },
+            {
+              "Company Name": "Neiman Marcus",
+              Link: "https://c.klarna.com/al/9S23/",
+            },
+            {
+              "Company Name": "Sephora",
+              Link: "https://c.klarna.com/al/A0a4/",
+            },
+            {
+              "Company Name": "Farfetch",
+              Link: "https://c.klarna.com/al/A0b8/",
+            },
+            {
+              "Company Name": "Bergdorf Goodman",
+              Link: "https://c.klarna.com/al/A0ad/",
+            },
+            {
+              "Company Name": "Net-A-Porter",
+              Link: "https://c.klarna.com/al/A0bV/",
+            },
+            {
+              "Company Name": "Neiman Marcus",
+              Link: "https://c.klarna.com/al/9S23/",
+            },
+            {
+              "Company Name": "Anine Bing",
+              Link: "https://c.klarna.com/al/A0Hj/",
+            },
+            {
+              "Company Name": "Reformation",
+              Link: "https://c.klarna.com/al/A0a1/",
+            },
+            {
+              "Company Name": "Shopbop",
+              Link: "https://c.klarna.com/al/A0a9/",
+            },
+            { "Company Name": "SSENSE", Link: "https://c.klarna.com/al/9zmP/" },
+            {
+              "Company Name": "Selfridges",
+              Link: "https://c.klarna.com/al/9zmM/",
+            },
+            {
+              "Company Name": "Mytheresa",
+              Link: "https://c.klarna.com/al/9zmF/",
+            },
+            {
+              "Company Name": "The Outnet",
+              Link: "https://c.klarna.com/al/9zmT/",
+            },
+            {
+              "Company Name": "Space NK",
+              Link: "https://c.klarna.com/al/A0bZ/",
+            },
+            {
+              "Company Name": "L'AGENCE",
+              Link: "https://c.klarna.com/al/A0bz/",
+            },
+            { "Company Name": "Levi's", Link: "https://c.klarna.com/al/A0c3/" },
+            { "Company Name": "Maje", Link: "https://c.klarna.com/al/A0c5/" },
+            {
+              "Company Name": "For Love & Lemons",
+              Link: "https://c.klarna.com/al/A0bq/",
+            },
+            { "Company Name": "Frame", Link: "https://c.klarna.com/al/A0bt/" },
+            {
+              "Company Name": "Giorgio Armani Beauty",
+              Link: "https://c.klarna.com/al/A0bu/",
+            },
+            {
+              "Company Name": "Giuseppe Zanotti",
+              Link: "https://c.klarna.com/al/A0bv/",
+            },
+            {
+              "Company Name": "J. Crew",
+              Link: "https://c.klarna.com/al/A0bx/",
+            },
+            {
+              "Company Name": "The Honest Company",
+              Link: "https://www.honest.com/home",
+            },
+            {
+              "Company Name": "T.J. Maxx",
+              Link: "https://c.klarna.com/al/A0ca/",
+            },
+            {
+              "Company Name": "Bloomingdale's",
+              Link: "https://c.klarna.com/al/9S1v/",
+            },
+            {
+              "Company Name": "Kiehl's",
+              Link: "https://c.klarna.com/al/A0Zv/",
+            },
+            {
+              "Company Name": "Parachute Home",
+              Link: "https://c.klarna.com/al/A0cG/",
+            },
+            {
+              "Company Name": "Superga",
+              Link: "https://c.klarna.com/al/A0Vt/",
+            },
+            {
+              "Company Name": "Canada Goose",
+              Link: "https://c.klarna.com/al/A0al/",
+            },
+            {
+              "Company Name": "Browns Fashion",
+              Link: "https://c.klarna.com/al/A0I4/",
+            },
+            {
+              "Company Name": "Paula's Choice",
+              Link: "https://c.klarna.com/al/A0cI/",
+            },
+            {
+              "Company Name": "Stuart Weitzman",
+              Link: "https://c.klarna.com/al/A0Zh/",
+            },
+            {
+              "Company Name": "Mario Badescu",
+              Link: "https://c.klarna.com/al/A0Uq/",
+            },
+            {
+              "Company Name": "MATCHES",
+              Link: "https://c.klarna.com/al/A0Ur/",
+            },
+            {
+              "Company Name": "Adanola",
+              Link: "https://c.klarna.com/al/9Rzo/",
+            },
+            { "Company Name": "24S", Link: "https://c.klarna.com/al/A0aN/" },
+            {
+              "Company Name": "Urban Outfitters",
+              Link: "https://c.klarna.com/al/A0W1/",
+            },
+            { "Company Name": "Mejuri", Link: "https://c.klarna.com/al/9zcU/" },
+            {
+              "Company Name": "Solid & Striped",
+              Link: "https://c.klarna.com/al/A0Vr/",
+            },
+            {
+              "Company Name": "Steve Madden",
+              Link: "https://c.klarna.com/al/A0Vs/",
+            },
+            {
+              "Company Name": "Swedish Stocings",
+              Link: "https://c.klarna.com/al/9zmS/",
+            },
+            {
+              "Company Name": "Harvey Nichols",
+              Link: "https://c.klarna.com/al/9zcM/",
+            },
+            {
+              "Company Name": "All Saints",
+              Link: "https://c.klarna.com/al/A06z/",
+            },
+            {
+              "Company Name": "Charlotte Tilbury",
+              Link: "https://c.klarna.com/al/9z1N/",
+            },
+            {
+              "Company Name": "Luisaviaroma",
+              Link: "https://c.klarna.com/al/A0Uo/",
+            },
+            {
+              "Company Name": "Fenty Beauty",
+              Link: "https://c.klarna.com/al/9zCP/",
+            },
+            {
+              "Company Name": "Rachel Comey",
+              Link: "https://c.klarna.com/al/A0Vn/",
+            },
+            { "Company Name": "Theory", Link: "https://c.klarna.com/al/A0Vx/" },
+            {
+              "Company Name": "Harrods",
+              Link: "https://c.klarna.com/al/9zCl/",
+            },
+            {
               "Company Name": "Guna Ana",
               Link: "https://c.klarna.com/al/9z1A/",
             },
@@ -393,10 +576,6 @@ const App = () => {
               Link: "https://c.klarna.com/al/9z1L/",
             },
             { "Company Name": "Babor", Link: "https://c.klarna.com/al/9z1M/" },
-            {
-              "Company Name": "Charlotte Tilbury",
-              Link: "https://c.klarna.com/al/9z1N/",
-            },
             { "Company Name": "COS US", Link: "https://c.klarna.com/al/9zC0/" },
             {
               "Company Name": "Dé Rococo",
@@ -412,12 +591,418 @@ const App = () => {
               Link: "https://c.klarna.com/al/9zCA/",
             },
             {
-              "Company Name": "Fenty Beauty",
-              Link: "https://c.klarna.com/al/9zCP/",
-            },
-            {
               "Company Name": "FitFlop",
               Link: "https://c.klarna.com/al/9zCU/",
+            },
+            {
+              "Company Name": "Flattered",
+              Link: "https://c.klarna.com/al/9zCi/",
+            },
+            { "Company Name": "Goelia", Link: "https://c.klarna.com/al/9zCk/" },
+            {
+              "Company Name": "Ivy Oak",
+              Link: "https://c.klarna.com/al/9zcN/",
+            },
+            {
+              "Company Name": "Lola Rose",
+              Link: "https://c.klarna.com/al/9zcO/",
+            },
+            { "Company Name": "MCM", Link: "https://c.klarna.com/al/9zcP/" },
+            {
+              "Company Name": "ME + EM",
+              Link: "https://c.klarna.com/al/9zcR/",
+            },
+            {
+              "Company Name": "Missoma",
+              Link: "https://c.klarna.com/al/9zcV/",
+            },
+            { "Company Name": "Monki", Link: "https://c.klarna.com/al/9zcX/" },
+            { "Company Name": "Nootka", Link: "https://c.klarna.com/al/9zmG/" },
+            {
+              "Company Name": "Ole Henriksen",
+              Link: "https://c.klarna.com/al/9zmH/",
+            },
+            {
+              "Company Name": "& Other Stories",
+              Link: "https://c.klarna.com/al/7rh0/",
+            },
+            {
+              "Company Name": "Percival",
+              Link: "https://c.klarna.com/al/9zmJ/",
+            },
+            {
+              "Company Name": "Residus",
+              Link: "https://c.klarna.com/al/9zmK/",
+            },
+            {
+              "Company Name": "Rodebjer",
+              Link: "https://c.klarna.com/al/9zmL/",
+            },
+            {
+              "Company Name": "Sif Jakobs Jewellery",
+              Link: "https://c.klarna.com/al/9zmN/",
+            },
+            {
+              "Company Name": "Little Liffner",
+              Link: "https://c.klarna.com/al/9zmU/",
+            },
+            {
+              "Company Name": "Longchamp",
+              Link: "https://c.klarna.com/al/9zmX/",
+            },
+            {
+              "Company Name": "BloomChic",
+              Link: "https://c.klarna.com/al/9QHm/",
+            },
+            {
+              "Company Name": "Ferragamo",
+              Link: "https://c.klarna.com/al/9zma/",
+            },
+            {
+              "Company Name": "italist",
+              Link: "https://c.klarna.com/al/9zmp/",
+            },
+            {
+              "Company Name": "Alexander McQueen",
+              Link: "https://c.klarna.com/al/A06w/",
+            },
+            {
+              "Company Name": "Alexandre Birman",
+              Link: "https://c.klarna.com/al/A06x/",
+            },
+            {
+              "Company Name": "Alloy Apparel",
+              Link: "https://c.klarna.com/al/A06y/",
+            },
+            {
+              "Company Name": "Altuzarra",
+              Link: "https://c.klarna.com/al/A070/",
+            },
+            {
+              "Company Name": "AndLight",
+              Link: "https://c.klarna.com/al/A071/",
+            },
+            { "Company Name": "Arket", Link: "https://c.klarna.com/al/A0Hl/" },
+            {
+              "Company Name": "Aroma360",
+              Link: "https://c.klarna.com/al/A0Hn/",
+            },
+            {
+              "Company Name": "Bearaby",
+              Link: "https://c.klarna.com/al/A0Ho/",
+            },
+            { "Company Name": "Bebe", Link: "https://c.klarna.com/al/A0Hr/" },
+            {
+              "Company Name": "Betabrand",
+              Link: "https://c.klarna.com/al/A0Ht/",
+            },
+            {
+              "Company Name": "Betsey Johnson",
+              Link: "https://c.klarna.com/al/A0Hu/",
+            },
+            {
+              "Company Name": "BlankNYC",
+              Link: "https://c.klarna.com/al/A0Hv/",
+            },
+            { "Company Name": "Bower Swimwear", Link: "Pending - HP is down" },
+            {
+              "Company Name": "Charlotte Stone",
+              Link: "https://c.klarna.com/al/A0I6/",
+            },
+            {
+              "Company Name": "Cover FX",
+              Link: "https://c.klarna.com/al/A0I9/",
+            },
+            { "Company Name": "Cupshe", Link: "https://c.klarna.com/al/A0IB/" },
+            { "Company Name": "CVS", Link: "https://c.klarna.com/al/9QHo/" },
+            {
+              "Company Name": "DeMillier",
+              Link: "https://c.klarna.com/al/A0IH/",
+            },
+            {
+              "Company Name": "Dolce Vita",
+              Link: "https://c.klarna.com/al/A0II/",
+            },
+            {
+              "Company Name": "Dynamite Clothing",
+              Link: "https://c.klarna.com/al/A0IJ/",
+            },
+            {
+              "Company Name": "eCosmetics",
+              Link: "https://c.klarna.com/al/A0IL/",
+            },
+            {
+              "Company Name": "E.L.V Denim",
+              Link: "https://c.klarna.com/al/A0IM/",
+            },
+            {
+              "Company Name": "FaceGym",
+              Link: "https://c.klarna.com/al/A0IP/",
+            },
+            { "Company Name": "Frye", Link: "https://c.klarna.com/al/A0IQ/" },
+            {
+              "Company Name": "Garage Clothing",
+              Link: "https://c.klarna.com/al/A0IR/",
+            },
+            {
+              "Company Name": "GlassesUSA",
+              Link: "https://c.klarna.com/al/A0IS/",
+            },
+            {
+              "Company Name": "Hardtail Forever",
+              Link: "https://c.klarna.com/al/A0IT/",
+            },
+            { "Company Name": "Hobbs", Link: "https://c.klarna.com/al/A0IU/" },
+            { "Company Name": "Hurley", Link: "https://c.klarna.com/al/A0IV/" },
+            {
+              "Company Name": "Inspire Me! Home Decor",
+              Link: "https://c.klarna.com/al/A0IW/",
+            },
+            {
+              "Company Name": "Junk Food Clothing",
+              Link: "https://c.klarna.com/al/A0IY/",
+            },
+            {
+              "Company Name": "Justice",
+              Link: "https://c.klarna.com/al/A0IZ/",
+            },
+            {
+              "Company Name": "Karen Kane",
+              Link: "https://c.klarna.com/al/A0Ie/",
+            },
+            {
+              "Company Name": "Kenneth Cole",
+              Link: "https://c.klarna.com/al/A0Ib/",
+            },
+            {
+              "Company Name": "Kurt Geiger",
+              Link: "https://c.klarna.com/al/A0If/",
+            },
+            {
+              "Company Name": "KVD Beauty",
+              Link: "https://c.klarna.com/al/A0Ig/",
+            },
+            {
+              "Company Name": "Laura Geller",
+              Link: "https://www.laurageller.com/",
+            },
+            {
+              "Company Name": "London Sock Company",
+              Link: "https://c.klarna.com/al/A0Ii/",
+            },
+            {
+              "Company Name": "Magnolia",
+              Link: "https://c.klarna.com/al/A0Up/",
+            },
+            { "Company Name": "MNML", Link: "https://c.klarna.com/al/A0Uv/" },
+            {
+              "Company Name": "ModCloth",
+              Link: "https://c.klarna.com/al/A0Uy/",
+            },
+            {
+              "Company Name": "Molimenti",
+              Link: "https://c.klarna.com/al/A0V5/",
+            },
+            {
+              "Company Name": "Monica Vinader",
+              Link: "https://c.klarna.com/al/A0Vf/",
+            },
+            {
+              "Company Name": "Mulberry",
+              Link: "https://c.klarna.com/al/A0Vg/",
+            },
+            {
+              "Company Name": "Orlebar Brown",
+              Link: "https://c.klarna.com/al/A0Vi/",
+            },
+            {
+              "Company Name": "Parfums Christian Dior",
+              Link: "https://c.klarna.com/al/A0Vk/",
+            },
+            {
+              "Company Name": "Phase Eight",
+              Link: "https://c.klarna.com/al/A0Vl/",
+            },
+            { "Company Name": "REISS", Link: "https://c.klarna.com/al/A0Vo/" },
+            { "Company Name": "Shashi", Link: "https://c.klarna.com/al/A0Vp/" },
+            { "Company Name": "Showpo", Link: "https://c.klarna.com/al/A0Vq/" },
+            {
+              "Company Name": "The Body Shop",
+              Link: "https://c.klarna.com/al/A0Vu/",
+            },
+            {
+              "Company Name": "Universal Standard",
+              Link: "https://c.klarna.com/al/A0Vz/",
+            },
+            {
+              "Company Name": "Casadei",
+              Link: "https://c.klarna.com/al/A0ZB/",
+            },
+            {
+              "Company Name": "Coccinelle",
+              Link: "https://c.klarna.com/al/A0ZD/",
+            },
+            {
+              "Company Name": "Columbia",
+              Link: "https://c.klarna.com/al/A0ZG/",
+            },
+            {
+              "Company Name": "FRANBROS",
+              Link: "https://c.klarna.com/al/A0ZL/",
+            },
+            {
+              "Company Name": "Rucoline",
+              Link: "https://c.klarna.com/al/A0ZQ/",
+            },
+            {
+              "Company Name": "Scarosso",
+              Link: "https://c.klarna.com/al/A0ZW/",
+            },
+            {
+              "Company Name": "Chico's",
+              Link: "https://c.klarna.com/al/A0Zj/",
+            },
+            { "Company Name": "Crocs", Link: "https://c.klarna.com/al/A0Zo/" },
+            {
+              "Company Name": "Gymshark",
+              Link: "https://c.klarna.com/al/A0Zq/",
+            },
+            {
+              "Company Name": "Ninety Percent",
+              Link: "https://c.klarna.com/al/A0Zz/",
+            },
+            { "Company Name": "SOMA", Link: "https://c.klarna.com/al/A0aB/" },
+            {
+              "Company Name": "Stutterheim",
+              Link: "https://c.klarna.com/al/A0aD/",
+            },
+            {
+              "Company Name": "Bronzallure",
+              Link: "https://c.klarna.com/al/A0aH/",
+            },
+            {
+              "Company Name": "Etrusca Gioielli",
+              Link: "https://c.klarna.com/al/A0aI/",
+            },
+            {
+              "Company Name": "MONNALISA",
+              Link: "https://c.klarna.com/al/A0aM/",
+            },
+            {
+              "Company Name": "Almada Label",
+              Link: "https://c.klarna.com/al/A0aV/",
+            },
+            {
+              "Company Name": "Astrid Miyu",
+              Link: "https://c.klarna.com/al/A0aZ/",
+            },
+            {
+              "Company Name": "Capezio",
+              Link: "https://c.klarna.com/al/A0ao/",
+            },
+            {
+              "Company Name": "Converse",
+              Link: "https://c.klarna.com/al/A0as/",
+            },
+            {
+              "Company Name": "Cult Beauty",
+              Link: "https://c.klarna.com/al/A0aw/",
+            },
+            {
+              "Company Name": "Holland Cooper",
+              Link: "https://c.klarna.com/al/A0bI/",
+            },
+            {
+              "Company Name": "House of Dagmar",
+              Link: "https://c.klarna.com/al/A0bJ/",
+            },
+            {
+              "Company Name": "Karen Millen",
+              Link: "https://c.klarna.com/al/A0bM/",
+            },
+            {
+              "Company Name": "Mamaladen",
+              Link: "https://c.klarna.com/al/A0bO/",
+            },
+            {
+              "Company Name": "Pretty Little Thing",
+              Link: "https://c.klarna.com/al/A0bW/",
+            },
+            { "Company Name": "Armani", Link: "https://c.klarna.com/al/A0bd/" },
+            { "Company Name": "Baobab", Link: "https://c.klarna.com/al/A0bg/" },
+            {
+              "Company Name": "Dolce & Gabbana",
+              Link: "https://c.klarna.com/al/A0bm/",
+            },
+            {
+              "Company Name": "e.l.f. Cosmetics",
+              Link: "https://c.klarna.com/al/A0bo/",
+            },
+            {
+              "Company Name": "Lancome",
+              Link: "https://c.klarna.com/al/A0c1/",
+            },
+            {
+              "Company Name": "Miu Miu",
+              Link: "https://c.klarna.com/al/A0c7/",
+            },
+            {
+              "Company Name": "Moon Juice",
+              Link: "https://c.klarna.com/al/A0c9/",
+            },
+            {
+              "Company Name": "Mr. Porter",
+              Link: "https://c.klarna.com/al/A0cC/",
+            },
+            {
+              "Company Name": "Nasty Gal",
+              Link: "https://c.klarna.com/al/A0cE/",
+            },
+            {
+              "Company Name": "Paul Smith",
+              Link: "https://c.klarna.com/al/A0cK/",
+            },
+            {
+              "Company Name": "Peter Thomas Roth",
+              Link: "https://c.klarna.com/al/A0cL/",
+            },
+            { "Company Name": "Prada", Link: "https://c.klarna.com/al/A0cN/" },
+            {
+              "Company Name": "Quay Australia",
+              Link: "https://c.klarna.com/al/A0cP/",
+            },
+            { "Company Name": "Rains", Link: "https://c.klarna.com/al/A0cT/" },
+            {
+              "Company Name": "Rituals",
+              Link: "https://c.klarna.com/al/A0cQ/",
+            },
+            { "Company Name": "Rixo", Link: "https://c.klarna.com/al/A0cU/" },
+            {
+              "Company Name": "Stella McCartney",
+              Link: "https://c.klarna.com/al/A0cV/",
+            },
+            {
+              "Company Name": "Alexander Wang",
+              Link: "https://c.klarna.com/al/A0cb/",
+            },
+            {
+              "Company Name": "Ashley Homestore",
+              Link: "https://c.klarna.com/al/A0cd/",
+            },
+            {
+              "Company Name": "Foot Locker",
+              Link: "https://c.klarna.com/al/A0cf/",
+            },
+            { "Company Name": "H&M", Link: "https://c.klarna.com/al/A0ci/" },
+            { "Company Name": "Mango", Link: "https://c.klarna.com/al/A0ck/" },
+            { "Company Name": "Macy's", Link: "https://c.klarna.com/al/A0cl/" },
+            {
+              "Company Name": "Princess Polly",
+              Link: "https://c.klarna.com/al/A0cm/",
+            },
+            {
+              "Company Name": "Sofa.com",
+              Link: "https://c.klarna.com/al/A0cn/",
             },
           ]}
         />
