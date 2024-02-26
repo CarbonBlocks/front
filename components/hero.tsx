@@ -350,7 +350,7 @@ const App = () => {
 
       <Main>
         <SectionTitle>
-          Action Dollars Towards The Climate <br /> by Shopping the Links Below
+          Action Dollars Towards the Climate <br /> by Shopping the Links Below
         </SectionTitle>
         <SearchableList
           brands={[
