@@ -29,6 +29,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "api/submit.js"
-  ],
+, "components/SearchableList.jsx"  ],
   "exclude": ["node_modules"]
 }
