@@ -65,14 +65,14 @@ const SignUp = () => {
               required
               pattern="^\S+@\S+\.\S+$"
               title="Please enter a valid email address."
-              className="p-4 w-full min-w-[20rem] text-black rounded-md mb-2 placeholder-black focus:outline-none"
+              className="p-4 w-full min-w-[20rem] text-black rounded-md mb-2 placeholder-black focus:outline-none bg-gray-700"
               placeholder="Email"
             />
             <button
               type="submit"
-              className="py-3 px-5 bg-blue-500 text-white font-bold rounded-md hover:bg-blue-600 focus:outline-none active:bg-blue-700"
+              className="py-3 px-5 bg-blue-500 text-white font-bold rounded-md hover:bg-blue-600 focus:outline-none active:bg-blue-900"
             >
-              Join Waitlist
+              Join
             </button>
           </form>
         )}

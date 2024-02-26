@@ -28,10 +28,10 @@ export default function Header() {
         !top ? "bg-[#1F252D] backdrop-blur-sm shadow-lg" : ""
       }`}
     >
-      <div className="max-w-6xl mx-auto px-5 sm:px-6">
+      <div className="max-w-6xl mx-auto px-1 sm:px-6">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Site branding */}
-          <div className="shrink-0 mr-4 flex items-center space-x-4">
+          <div className="shrink-0 mr-4 flex items-center space-x-1">
             <Logo />
             <div className="text-2xl md:text-3xl text-white font-semibold tracking-wide">
               Carbonblocks
